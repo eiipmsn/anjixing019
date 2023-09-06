@@ -13,3 +13,4 @@ wushi
 yinhuas
 tthtjh
 hanhan
+huawei
