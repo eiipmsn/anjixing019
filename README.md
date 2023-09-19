@@ -18,3 +18,4 @@ shj918
 tianxia
 wushisf
 lingyap
+jumingr
