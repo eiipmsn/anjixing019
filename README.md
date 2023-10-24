@@ -14,7 +14,7 @@ yinhuas
 tthtjh_098i
 hanhan_qsiq
 huawei
-shj918232_qiq
+shj918232_qiq_ok
 tianxia
 wushisf
 lingyap
