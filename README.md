@@ -12,7 +12,7 @@ tiantian
 wushi
 yinhuas
 tthtjh_098i
-hanhan_qsiq
+hanhan_qsiq_pp
 huawei
 shj918232_qiq_ok
 tianxia
