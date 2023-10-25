@@ -9,7 +9,7 @@ tiantsui,gt54
 tuip
 zenmele
 tiantian
-wushi
+wushi,4gtr
 yinhuas
 tthtjh_098i
 hanhan_qsiq_pp
