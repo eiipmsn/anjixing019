@@ -16,7 +16,7 @@ hanhan_qsiq_pp
 huawei
 shj918232_qiq_ok
 tianxia
-wushisf
+wushisf.988u1
 lingyap
 jumingr_0oik
 tianxia
