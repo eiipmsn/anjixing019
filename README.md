@@ -13,7 +13,7 @@ wushi,4gtr
 yinhuas
 tthtjh_098i
 hanhan_qsiq_pp
-huawei
+huawei,yuht56
 shj918232_qiq_ok
 tianxia
 wushisf.988u1
