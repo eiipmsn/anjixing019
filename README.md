@@ -15,7 +15,7 @@ tthtjh_098i,yu650
 hanhan_qsiq_pp
 huawei,yuht56
 shj918232_qiq_ok
-tianxia,yuh56
+tianxia,yuh56,uie762
 wushisf.988u1
 lingyap,89uiiw
 jumingr_0oik
