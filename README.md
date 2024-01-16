@@ -12,7 +12,7 @@ tiantian,sghuy72,shuwy02
 wushi,4gtr,893uje,wyuw672
 yinhuas,husji.787867.
 tthtjh_098i,yu650
-hanhan_qsiq_pp
+hanhan_qsiq_pp,shu2
 huawei,yuht56
 shj918232_qiq_ok
 tianxia,yuh56,uie762
